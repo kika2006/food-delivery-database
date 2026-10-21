@@ -1,6 +1,6 @@
 # Food-Delivery Platform Database (MySQL)
 
-**Author:** Francisca (Kika) Freixo  
+**Author:** Francisca Freixo  
 
 A normalised relational database for a Thuisbezorgd-style food-delivery platform. It covers customers, restaurants, menus, couriers, orders, invoices, payments and reviews, with sample data and analytical queries.
 
